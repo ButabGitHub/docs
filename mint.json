@@ -15,12 +15,6 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
   "tabs": [
     {
       "name": "Finte",
@@ -31,17 +25,12 @@
     {
       "name": "Info",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://fso.mintlify.app/info"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Docs Github Page",
+      "icon": "github",
+      "url": "https://github.com/ButabGitHub/docs/tree/main"
     }
   ],
   "navigation": [
@@ -78,10 +67,6 @@
         "api-reference/endpoint/delete"
       ]
     }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+  ]
   }
 }
